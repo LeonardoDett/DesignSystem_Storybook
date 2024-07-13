@@ -1,0 +1,3 @@
+{
+    "extends": "@rcdesign-system/eslint-config"
+}
